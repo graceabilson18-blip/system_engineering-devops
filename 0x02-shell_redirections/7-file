@@ -1,0 +1,4 @@
+#!/bin/bash
+# Create a file named *\'"Best School"\'\*$\?*****:) containing "Best School"
+file_name='*\'"Best School"\'\*$\?*****:)'
+echo "Best School" > "$file_name"

@@ -1,0 +1,3 @@
+#!/bin/bash
+# Display third line of iacta without sed
+awk 'NR==3' iacta
