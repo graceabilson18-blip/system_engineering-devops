@@ -1,0 +1,3 @@
+#!/bin/bash
+# Creates a directory with mode 751
+mkdir -m 751 my_dir

@@ -1,0 +1,3 @@
+#!/bin/bash
+# Changes the group of file hello to school
+chgrp school hello
